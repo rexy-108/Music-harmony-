@@ -1,0 +1,6 @@
+{
+  "name": "Music Harmony",
+  "description": "A sleek, immersive music experience to play music, discover and add songs from across the world, create custom playlists, and share with friends.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
